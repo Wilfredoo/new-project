@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Who was here?</h1>
       <h2> it wasnt me "Fakhira"</h2>
+      <h2>I was not here</h2>
     </div>
   );
 }
